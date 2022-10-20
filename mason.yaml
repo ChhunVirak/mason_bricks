@@ -1,11 +1,6 @@
 bricks:
-  get_m:
-    path: bricks/get_m
-  get_l:
-    path: bricks/get_l
-  get_p:
-    path: bricks/get_p
-  module:
-    path: bricks/module
+ 
+  feature:
+    path: bricks/feature
 
   

@@ -1,1 +1,7 @@
-{"bricks":{"get_m":{"path":"/Users/virak/App/mason/bricks/get_m"},"get_l":{"path":"/Users/virak/App/mason/bricks/get_l"},"get_p":{"path":"/Users/virak/App/mason/bricks/get_p"},"module":{"path":"/Users/virak/App/mason/bricks/module"}}}
+{
+    "bricks": {
+        "feature": {
+            "path": "/Users/virak/App/mason/bricks/feature"
+        }
+    }
+}

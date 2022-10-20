@@ -23,8 +23,6 @@ class {{name.pascalCase()}}Controller extends GetxController {
         list{{name.pascalCase()}}.add({{name.pascalCase()}}Model.fromJson(element));
       }).toList();
 
-      ///
-      {{name.camelCase()}}Model.value = {{name.pascalCase()}}Model.fromJson(response['DESTINATION_KEY']);
 
       fetch{{name.pascalCase()}}Loading(false);
     }).onError((ErrorModel error, stackTrace) {

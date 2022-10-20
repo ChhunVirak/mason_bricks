@@ -2,3 +2,5 @@ analyzer:
   exclude:
     - bricks/**
     - generated/**
+    - /** 
+    - lib/**

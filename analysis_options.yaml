@@ -3,4 +3,4 @@ analyzer:
     - bricks/**
     - generated/**
     - /** 
-    - lib/**
+    # - lib/**

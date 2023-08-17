@@ -1,6 +1,7 @@
 bricks:
- 
   feature:
     path: bricks/feature
-
-  
+  module:
+    path: bricks/module
+  structure:
+    path: bricks/structure

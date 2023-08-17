@@ -1,1 +1,7 @@
-{"bricks":{"feature":{"path":"/Users/virak/App/mason/bricks/feature"}}}
+{
+  "bricks": {
+    "feature": { "path": "/Users/virak/App/mason/bricks/feature" },
+    "module": { "path": "/Users/virak/App/mason/bricks/module" },
+    "structure": { "path": "/Users/virak/App/mason/bricks/structure" }
+  }
+}

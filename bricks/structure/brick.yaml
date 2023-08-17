@@ -1,4 +1,4 @@
-name: get_p
+name: structure
 description: A new brick created with the Mason CLI.
 
 # The following defines the version and build number for your brick.
@@ -9,8 +9,7 @@ version: 0.1.0+1
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
 environment:
-  mason: ">=0.1.0-dev.26 <0.1.0"
-# [name, description, version, environment, repository, vars, path]
+  mason: ">=0.1.0-dev.39 <0.1.0"
 
 # Variables specify dynamic values that your brick depends on.
 # Zero or more variables can be specified for a given brick.
@@ -25,9 +24,5 @@ vars:
   name:
     type: string
     description: Your name
+    default: Dash
     prompt: What is your name?
-  debug:
-    type: boolean
-    default: true
-    description: debugging
-    prompt: Do you want to include Debugging?
